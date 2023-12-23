@@ -8,7 +8,7 @@ Xiaomi 12S PRO (China).
 
 | Feature                 | Specification                                                                      |
 | :---------------------- | :--------------------------------------------------------------------------        |
-| Chipset                 | Qualcomm SM8250-AC Snapdragon 870 (7 nm)                                           |
+| Chipset                 | Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)                                         |
 | CPU                     | Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510) |
 | GPU                     | Adreno 730                                                                         |
 | Memory                  | 6/8/12 GB LPDDR5 RAM                                                               |
