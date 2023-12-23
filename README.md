@@ -26,6 +26,6 @@ Xiaomi 12S PRO (China).
 
 ## Device picture
 
-[Xiaomi 12S PRO] https://imgur.com/1AVB2xh
+![xiaomi-12s-pro-1.jpg](https://s2.loli.net/2023/12/24/cYlro4q6gMkCWQZ.jpg)
 
 Copyright (C) 2023 fauxly.
