@@ -1,4 +1,4 @@
-# Unified Device Tree for Xiaomi 12S PRO 
+# Device Tree for Xiaomi 12S PRO 
 
 The 12S PRO  (codenamed "unicorn") is a flagship smartphone from Xiaomi released 2022, July 07
 
