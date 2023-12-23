@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "WifiResTarget_spf",
+    product_specific: true,
+}
