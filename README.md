@@ -17,10 +17,10 @@ Xiaomi 12S PRO (China).
 | SIM                     | Dual SIM (Nano-SIM, dual stand-by)                                                 |
 | Battery                 | 4600 mAh Li-Po (non-removable), 120W wired, PD3.0, QC4, 100% in 19 min (advertised)| 
 | Dimensions              | 163.6 x 74.6 x 8.2 mm or 8.7 mm                                                    |
-| Display                 | 6.73 inch, 1440 x 3200 pixels, AMOLED, Dolby Vision, HDR10+, 120Hz                 |
+| Display                 | 6.73 inch, 1440 x 3200 pixels, LTPO AMOLED, Dolby Vision, HDR10+, 120Hz            |
 | Camera                  | 50 MP, f/1.9, 24mm (wide), 1/1.28", 1.22µm, Dual Pixel PDAF, OIS                   |
 |                         | 50 MP, f/1.9, 50mm (telephoto), PDAF, 2x optical zoom                              |
-|                         | 50 MP, f/2.2, 115˚ (ultrawide)                                                     |
+|                         | 50 MP, f/2.2, 115˚ (ultrawide) Single: 32 MP, f/2.5, 26mm (wide), 0.7µm            |
 | Fingerprint             | Fingerprint (under display, optical)                                               |
 | Sensors                 | Accelerometer, gyro, compass, color spectrum Virtual proximity sensing             |
 
