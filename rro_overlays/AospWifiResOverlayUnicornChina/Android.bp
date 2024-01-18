@@ -5,6 +5,6 @@
 //
 
 runtime_resource_overlay {
-    name: "AospWifiResOverlayDitingChina",
+    name: "AospWifiResOverlayUnicornChina",
     product_specific: true,
 }

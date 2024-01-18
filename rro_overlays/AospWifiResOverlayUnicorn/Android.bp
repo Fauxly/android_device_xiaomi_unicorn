@@ -5,6 +5,6 @@
 //
 
 runtime_resource_overlay {
-    name: "AospWifiResOverlayDiting",
+    name: "AospWifiResOverlayUnicorn",
     product_specific: true,
 }

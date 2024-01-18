@@ -5,6 +5,6 @@
 //
 
 runtime_resource_overlay {
-    name: "FrameworksResOverlayDiting",
+    name: "FrameworksResOverlayUnicorn",
     product_specific: true,
 }
